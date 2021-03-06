@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body {
+    font-family: public sans;
+    font-size: 10px;
+    line-height: 30px;
+    background-color:#fefefe ;
+    color: #000D1A;
+    margin: 0 50px 500px 50px;
+}
+
+h1{
+    font-size: 30px;
+    font-weight: bold;
+    color: #70879f;
+    text-align: center;
+}
+
+input{
+    font-size: 20px;
+}
+
+select{
+    font-size: 20px;
+}
+a {
+    color: #7092C4;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+p{
+    font-weight: 50;
+    font-size: 5PX;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+.crumbs ol {
+    list-style-type: none;
+    margin-left: 35%;
+}
+
+.crumb {
+    display: inline-block;
+    font-size: 1rem;
+    color: orange;
+    margin-bottom: 0;
+}
+
+
+.contact-container {
+    margin-left: 34%;
+    width: 30%;
+    padding-left: 5%;
+    line-height: 1.4;
+    text-align: left;
+    border: solid 1px;
+    border-color: #70879f;
+    box-shadow: 5px 10px #70879f;
+}
+label{
+    font-size: 20px;
+}
+button {
+    background-color: rgb(16, 16, 165); /* Green */
+    border: none;
+    color: white;
+    padding: 10px 70px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin:2% 17%;
+
+}
+textarea{
+    text-align: center;
+    font-size: 15px;
+    margin-top: 5%;
+}
+  
+.contact{
+    margin-top: 0px;
+    font-size: 1.5rem;
+    padding: 0px;
+  
+  } 
